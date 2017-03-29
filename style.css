@@ -1,0 +1,387 @@
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-BlackItalic-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-BlackItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-BlackItalic-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-BlackItalic-Web.woff') format('woff');
+  font-weight:  900;
+  font-style:   italic;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Black-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Black-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Black-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Black-Web.woff') format('woff');
+  font-weight:  900;
+  font-style:   normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-BoldItalic-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-BoldItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-BoldItalic-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-BoldItalic-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   italic;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Bold-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Bold-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Bold-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Bold-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-MediumItalic-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-MediumItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-MediumItalic-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-MediumItalic-Web.woff') format('woff');
+  font-weight:  500;
+  font-style:   italic;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Medium-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Medium-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Medium-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Medium-Web.woff') format('woff');
+  font-weight:  500;
+  font-style:   normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-RegularItalic-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-RegularItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-RegularItalic-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-RegularItalic-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   italic;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Regular-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Regular-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Regular-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Regular-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-LightItalic-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-LightItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-LightItalic-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-LightItalic-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   italic;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Lyon Display Web';
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "Futura Md BT";
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "Futura Md BT";
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.eot');
+  src: url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.eot?#iefix') format('embedded-opentype'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.woff2') format('woff2'),
+       url('https://static.everydiem.com/fonts/LyonDisplay-Light-Web.woff') format('woff');
+  font-weight:  500;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+/*
+Website Name: Elizabeth Lovero
+Description: Portfolio for Front End Developer Elizabeth Lovero
+URI: https://www.elizabethlovero.com/
+Tags: Lovero, Front-End, Developer, Engineer
+*/
+
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+body {
+  font-size: 1.8em;
+  padding-top: 40px;
+  letter-spacing: 0.04em;
+  line-height: 1.9em;
+}
+
+p {
+  font-family: 'Lyon Display Web', Georgia, serif;;
+}
+
+p em, p i {
+  font-family: 'Lyon Display Web', Georgia, serif;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+  outline: 0;
+}
+p a:hover, td a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #222;
+}
+
+a:focus, a:hover {
+  color: #444;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5 {
+  letter-spacing: .2em;
+}
+
+h4 {
+  margin: 30px 0 30px 0;
+  line-height: 1.4em;
+  font-weight: 300;
+}
+
+h5, .h5 {
+  font-family: 'Futura', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+h6, .h6 {
+  font-family: 'Lyon Display Web', serif;
+  font-size: 0.8em;
+  line-height: inherit;
+}
+
+h6 em, .h6 em, h6 i, .h6 i {
+  font-family: 'Lyon Display Web', Georgia, serif;
+}
+
+u {
+  border-bottom: 1px solid #000;
+  text-decoration: none;
+}
+
+hr {
+  border-top: 1px solid #999;
+}
+
+.btn {
+  border-radius: 0;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
+
+.btn-add {
+  border: 1px solid #000;
+  font-size: 0.8em;
+  letter-spacing: 0.2em;
+}
+
+.btn-add.out:hover {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+  cursor: default;
+}
+
+.btn-add:hover {
+  background-color: #000;
+  color: #fff;
+  border-color: transparent;
+}
+
+.btn.active, .btn:active {
+  -webkit-box-shadow: none;
+  box-shadow: default;
+}
+
+input:focus, input[type=text]:focus, textarea:focus, select:focus, button:focus {
+  outline-offset: 0;
+  outline: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+
+/* Navbar
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  background-color: transparent;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: #222;
+}
+
+header[role="banner"] #logo-main {
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+}
+
+#navbar-primary.navbar-default {
+  background: transparent;
+  border: none;
+}
+
+#navbar-primary.navbar-default .navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+#navbar-primary.navbar-default .navbar-nav > li {
+  display: inline-block;
+  float: none;
+}
+
+#navbar-primary.navbar-default .navbar-nav > li > a {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#navbar-primary .btn-group>.btn {
+  font-family: 'Futura', Helvetica, Arial, sans-serif;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+#navbar-primary .btn-group>.btn img {
+  vertical-align: top;
+}
+
+.nav-icon {
+  width: 15px;
+  height: 15px;
+  margin-top: 10px;
+}
+
+
+/* Landing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.top-30 {
+  margin-top: 30px;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.book-start {
+  margin-bottom: 30px;
+}
+
+.book-start h5 {
+  position: absolute;
+  font-family: 'Futura', Helvetica, Arial, sans-serif;
+  color: #fff;
+  text-align: center;
+  padding: 0 30px;
+  margin: 0;
+  opacity: 1;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease;
+}
+
+.book-start:hover h5 {
+  color: #3d9991;
+}
+
+
+/* Footer
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+#footer {
+  margin: 30px 0 90px;
+}
+
+#footer p {
+  font-size: 0.8em;
+}
+
+#footer .row {
+  padding-bottom: 30px;
+}
+
+#logo-footer {
+  width: 40px;
+  margin-top: 4px;
+  vertical-align: -webkit-baseline-middle;
+}
+
+
+/* Media Queries
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+  #footer .rm-form-row > input {
+    width: 13em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+  #navbar-primary .btn-group>.btn img {
+    vertical-align: middle;
+  }
+
+  .btn-group-justified>.btn, .btn-group-justified>.btn-group {
+    display: table-row;
+    line-height: 2em;
+  }
+
+  header[role="banner"] #logo-main {
+    margin: 0 auto 30px auto;
+  }
+
+  .top-50 {
+    margin-top: 30px;
+  }
+
+  #logo-footer {
+    margin-left: -8px;
+  }
+
+  #footer {
+    margin: 30px 0 60px;
+  }
+}
