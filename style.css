@@ -332,6 +332,11 @@ header[role="banner"] #logo-main {
 
 .bio {
   text-align: center;
+  margin-bottom: 30px;
+}
+
+.bio-link {
+  color: #3d9991;
 }
 
 /* Footer
